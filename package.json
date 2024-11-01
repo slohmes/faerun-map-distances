@@ -1,0 +1,13 @@
+{
+  "name": "faerun-map-distances",
+  "version": "1.0.0",
+  "description": "Calculate travel time between any two cities on a map of Faerun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "calc": "node ./calculate-distance.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
